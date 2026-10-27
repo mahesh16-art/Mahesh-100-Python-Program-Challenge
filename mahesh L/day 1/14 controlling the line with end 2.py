@@ -1,0 +1,7 @@
+print("loading",end="...")
+print("done!")
+print("A", end="")
+print("B", end="")
+print("C", end="") 
+print("X", "Y", "Z", sep="+",end="=")
+print("xyz")
