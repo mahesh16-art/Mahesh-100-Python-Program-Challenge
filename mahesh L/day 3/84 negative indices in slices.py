@@ -1,0 +1,4 @@
+word = "python"
+print(word[-3:])     
+print(word[:-1])     
+print(word[1:-1]) 
